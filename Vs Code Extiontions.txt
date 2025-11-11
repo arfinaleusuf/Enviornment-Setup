@@ -1,0 +1,8 @@
+Extentions:
+
+1. C/C++
+2. C/C++ Extention Pack
+3. C/C++ Compile Run
+4. C/C++ Themes
+5. Code Runner
+6. Competitive Programming Helper (CPH)

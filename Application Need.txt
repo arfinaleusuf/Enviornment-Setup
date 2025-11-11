@@ -1,0 +1,6 @@
+Application Need:
+
+1. VS Code
+2. Git Bash
+
+~ MingW Compiler : https://drive.google.com/file/d/1aC9xQL2J1JSMT-ChEd2DP4OR4es5FSjq/view?usp=sharing
