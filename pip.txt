@@ -1,0 +1,3 @@
+pip install fastapi uvicorn pydantic
+
+pip install passlib
